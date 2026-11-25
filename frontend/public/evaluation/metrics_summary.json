@@ -1,0 +1,20 @@
+{
+  "precision": 0.9908,
+  "recall": 0.9787,
+  "f1_score": 0.9847,
+  "mAP_50": 0.975,
+  "mAP_50_95": 0.9142,
+  "detection_accuracy": 0.9787,
+  "true_positives": 46,
+  "false_positives": 0,
+  "false_negatives": 1,
+  "true_negatives": 35,
+  "total_instances": 47,
+  "inference_time_ms": 203.53,
+  "fps": 4.89,
+  "model_parameters": 21774430,
+  "model_size_mb": 41.96,
+  "model_name": "YOLO26m",
+  "dataset": "mfranzon/pothole-yolo26",
+  "device": "CPU"
+}
